@@ -1,0 +1,14 @@
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\LSosu\Work\Mik\Sandbox\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Liviu\Downloads\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Liviu\Downloads\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Liviu\Downloads\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Liviu\Downloads\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Liviu\Downloads\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\Downloads\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Liviu\Downloads\Reflection\Reflection\obj\Debug\Reflection.pdb

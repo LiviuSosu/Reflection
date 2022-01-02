@@ -2,7 +2,8 @@
 {
     public class PrivateClass
     {
-        public PrivateClass() {
+        public PrivateClass()
+        {
             subPrivateClass = new SubPrivateClass();
         }
 
@@ -11,7 +12,8 @@
 
     public class SubPrivateClass
     {
-        public SubPrivateClass() {
+        public SubPrivateClass()
+        {
             privateField = 10;
         }
 
